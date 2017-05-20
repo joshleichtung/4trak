@@ -15,3 +15,4 @@
 * [Thoughtbot Let's build a CLI](https://thoughtbot.com/upcase/videos/lets-build-a-cli)
 * [Thor CLI Gem](http://whatisthor.com/)
 * [link-preview gem](https://github.com/socialcast/link_preview)
+* [create gists from command-line](https://github.com/defunkt/gist)
