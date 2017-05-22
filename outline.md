@@ -16,3 +16,5 @@
 * [Thor CLI Gem](http://whatisthor.com/)
 * [link-preview gem](https://github.com/socialcast/link_preview)
 * [create gists from command-line](https://github.com/defunkt/gist)
+* [write a shell in
+  ruby](http://www.blackbytes.info/2016/07/writing-a-shell-in-ruby/)
